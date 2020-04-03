@@ -1,0 +1,13 @@
+#VS Code used as editor
+#Django as framework
+#postgresql as database
+#Django connects dynamic content from database to front end 
+#The website "popular destination" section is updated using dynamic content to 
+#The content send through django as defined in models.py is name, desc, image src, price and boolean for whether on offer.
+#
+#Open the project in vscode. You can after cloning have all those files in a project level folder for convinience
+#Install postresql and pyadmin for effective management of db
+#
+#
+#
+#
